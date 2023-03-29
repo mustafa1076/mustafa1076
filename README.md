@@ -42,12 +42,11 @@
 
 <h3 align="left">Also Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mustafactnkyaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sevmoykudemirel" height="30" width="40" /></a>
-<a href="https://instagram.com/mutiefendi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="demirelsoyku" height="30" width="40" /></a>
+<a href="https://twitter.com/mustafactnkyaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafactnkyaaa" height="30" width="40" /></a>
+<a href="https://instagram.com/mutiefendi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mutiefendi" height="30" width="40" /></a>
 </p>
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafa1076&show_icons=true&theme=gradient) 
-    
  <br>
 <br>
 ![Visitor Count](https://profile-counter.glitch.me/{mustafa1076}/count.svg)
