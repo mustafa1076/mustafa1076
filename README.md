@@ -49,7 +49,7 @@
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafa1076&show_icons=true&theme=gradient) 
     
  <br>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soykuu&show_icons=true&locale=en&layout=compact" alt="soykuu" /></p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa1076&show_icons=true&locale=en&layout=compact" alt="mustafa1076" />
 <br>
 ![Visitor Count](https://profile-counter.glitch.me/{mustafa1076}/count.svg)
 
