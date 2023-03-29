@@ -24,7 +24,7 @@
      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=numanakoluk&show_icons=true&theme=gradient) 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafa1076&show_icons=true&theme=gradient) 
  <br>
 <br>
 ![Visitor Count](https://profile-counter.glitch.me/{mustafa1076}/count.svg)
