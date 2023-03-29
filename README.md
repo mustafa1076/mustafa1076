@@ -7,8 +7,7 @@
 <h3> Contact Me </h3>
   <a href="https://www.linkedin.com/in/mustafacetinkaya67/" target="_blank" rel="nofollow"><img alt="Linkedin hesabım" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mustafacetinkayaa67@gmail.com" target="_blank" rel="nofollow"><img alt="Mustafa's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/mutiefendi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="demirelsoyku" height="30" width="40" /></a>
-  <p align="center">
+ 
   
  <h3>Technologies and Tools I use</h3>
  <p align="center">
@@ -24,6 +23,15 @@
 <img src="https://img.shields.io/badge/appium-330F63.svg?style=for-the-badge&logo=java&logoColor=white"/>
      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  
+  
+  <div align="center">
+
+<h3 align="left">Also Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mustafactnkyaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sevmoykudemirel" height="30" width="40" /></a>
+<a href="https://instagram.com/mutiefendi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="demirelsoyku" height="30" width="40" /></a>
+</p>
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafa1076&show_icons=true&theme=gradient) 
  <br>
