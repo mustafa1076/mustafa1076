@@ -7,6 +7,7 @@
 <h3> Contact Me </h3>
   <a href="https://www.linkedin.com/in/mustafacetinkaya67/" target="_blank" rel="nofollow"><img alt="Linkedin hesabım" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mustafacetinkayaa67@gmail.com" target="_blank" rel="nofollow"><img alt="Mustafa's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/mutiefendi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="demirelsoyku" height="30" width="40" /></a>
   <p align="center">
   
  <h3>Technologies and Tools I use</h3>
