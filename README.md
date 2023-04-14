@@ -61,5 +61,7 @@
 
 ##
 
+![Snake animation](https://github.com/mustafa1076/mustafa1076/blob/output/github-contribution-grid-snake.svg)
+
 
                   
