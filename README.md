@@ -1,6 +1,8 @@
 <div align="center">
+<img src=https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=4000&pause=1000&color=7AF79A&width=435&lines=Hi!+I'm+Mustafa+;I'm+a+React+Developer></img>
+<br>
+<hr>
 
-### Hi There 👋
 <p>I'm  Mustafa Çetinkaya. Below you can find some small information about me</p>
 
 <div align="center">
@@ -40,15 +42,24 @@
   
   <div align="center">
 
-<h3 align="left">Also Connect with me:</h3>
-<p align="left">
+<h3 align="center">Also Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/mustafactnkyaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafactnkyaaa" height="30" width="40" /></a>
 <a href="https://instagram.com/mutiefendi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mutiefendi" height="30" width="40" /></a>
 </p>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafa1076&show_icons=true&theme=gradient) 
- <br>
-<br>
-![Visitor Count](https://profile-counter.glitch.me/{mustafa1076}/count.svg)
+<div align="center">
+  <a href="https://github.com/mustafa1076">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafa1076&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa1076&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+##
+
+<h3>🙏 Thank you for visiting 🙏</h3>
+<img src="https://profile-counter.glitch.me/mustafa1076/count.svg">
+
+##
+
 
                   
