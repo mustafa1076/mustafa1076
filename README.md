@@ -35,6 +35,16 @@
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mustafa1076&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+### 🧩 Contribution Activity
+<p align="center">
+  <a href="https://github.com/mustafa1076">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafa1076&theme=tokyo-night&hide_border=true" />
+  </a>
+</p>
+
+
 
 ---
 
